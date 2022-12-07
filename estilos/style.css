@@ -23,8 +23,8 @@ section#sites {
 }
 
 section#sites img{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
