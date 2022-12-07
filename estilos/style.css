@@ -31,6 +31,8 @@ section#sites img{
     box-sizing: border-box;
 }
 
+/* ver se a width fica melhor com 100px do que 200px*/
+
 section#sites img:hover {
     border: 3px solid rgb(150, 150, 255);
     transform: translate(-3px, -3px);
